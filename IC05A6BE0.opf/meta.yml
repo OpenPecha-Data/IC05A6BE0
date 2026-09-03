@@ -1,0 +1,25 @@
+id: IC05A6BE0
+initial_creation_type: ebook
+source_metadata:
+  id: RCP-GON-05
+  title: ༄༅། །དགོངས་གཅིག་གསལ་བྱེད་ལུང་རིགས་སྙིང་པོའི་གཏེར་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  author: མཛད་པ་པོ། མཁན་ཆེན་ཀུན་བཟང་དཔལ་ལྡན།
+  authors: &id001
+  - མཛད་པ་པོ། མཁན་ཆེན་ཀུན་བཟང་དཔལ་ལྡན།
+  sku: RCP-GON-05
+  cover: RCP-GON-05.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །དགོངས་གཅིག་གསལ་བྱེད་ལུང་རིགས་སྙིང་པོའི་གཏེར་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  authors: *id001
+  sku: RCP-GON-05
+  cover: RCP-GON-05.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
+- Yigchung
